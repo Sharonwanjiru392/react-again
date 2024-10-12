@@ -6,7 +6,7 @@ const useFetch = (url) => {
 
     useEffect(()=>{
         axios.get(url)
-        .then(res => setData (data))
+        .then(res => setData (res.data))
         .catch(err => console.error(err))
     },[url]);
 

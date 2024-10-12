@@ -5,7 +5,6 @@ import { useHistory } from "react-router-dom/cjs/react-router-dom.min"
 import { toast } from "react-toastify";
 
 const CreateStudent = () =>{
-    const history = useHistory();
     const [data, setData] = useState({
         name: "",
         email: "",
@@ -13,6 +12,8 @@ const CreateStudent = () =>{
         course: "",
         class: ""
     });
+
+    const history = useHistory();
 
     const handleChange = (e) =>{
         const {name, value} = e.target;

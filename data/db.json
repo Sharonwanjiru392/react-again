@@ -1,14 +1,6 @@
 {
   "students": [
     {
-      "id": "1",
-      "name": "sharon",
-      "email": "sharonwanjiru@iclod.com",
-      "phone": "078965432",
-      "course": "Software",
-      "class": "Soft development"
-    },
-    {
       "id": "0c86",
       "name": "Sharon",
       "email": "sharon@gmail.com",
@@ -103,6 +95,22 @@
       "phone": "0707340087",
       "course": "software",
       "class": "soft"
+    },
+    {
+      "id": "d56d",
+      "name": "Sharon",
+      "email": "sharon@gmail.com",
+      "phone": "0707340087",
+      "course": "software",
+      "class": "soft"
+    },
+    {
+      "id": "fb2d",
+      "name": "simon",
+      "email": "simon@iclod.com",
+      "phone": "072409876",
+      "course": "security",
+      "class": "class"
     }
   ]
 }
