@@ -29,9 +29,16 @@ const CreateStudent = () =>{
 
              toast.success("Success! You have successfully", {
                 position:toast.POSITION.TOP_RIGHT,
-                autoClose: 5000,
+                autoClose: 3000,
              })
          })
+         .catch(err =>{
+            alert("There was an error while adding the student")
+            toast.error("error while adding the student",{
+                position:toast.POSITION.TOP_RIGHT,
+                autoClose:3000,
+            })
+        })
     }
 
     return (
