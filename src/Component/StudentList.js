@@ -39,7 +39,7 @@ const StudentList = () => {
                             <td>{student.class}</td>
                             
                             <td>
-                                <Link to={`/student-detail/${student.id}`}>View</Link>|
+                                <Link to={`/student-details/${student.id}`}>View</Link>|
                                 <Link to={`/edit-student/${student.id}`}>Edit</Link>|
                                 <button onClick={()=>handleDelete(student.id)}>Delete</button> 
                             </td>
