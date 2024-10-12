@@ -1,0 +1,108 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "sharon",
+      "email": "sharonwanjiru@iclod.com",
+      "phone": "078965432",
+      "course": "Software",
+      "class": "Soft development"
+    },
+    {
+      "id": "0c86",
+      "name": "Sharon",
+      "email": "sharon@gmail.com",
+      "phone": "0707340087",
+      "course": "dev",
+      "class": "soft"
+    },
+    {
+      "id": "33a3",
+      "name": "Austin",
+      "email": "sharon@gmail.com",
+      "phone": "0707340087",
+      "course": "dev",
+      "class": "soft"
+    },
+    {
+      "id": "f48e",
+      "name": "Sharon",
+      "email": "sharonwanjiru392@gmail.com",
+      "phone": "0707340087",
+      "course": "software",
+      "class": "ware"
+    },
+    {
+      "id": "8f1a",
+      "name": "Sharon",
+      "email": "sharon@gmail.com",
+      "phone": "0707340087",
+      "course": "dev",
+      "class": "soft"
+    },
+    {
+      "id": "c7dd",
+      "name": "Sharon",
+      "email": "sharon@gmail.com",
+      "phone": "0707340087",
+      "course": "software",
+      "class": "soft"
+    },
+    {
+      "id": "3672",
+      "name": "Sharon",
+      "email": "sharonwanjiru392@gmail.com",
+      "phone": "0707340087",
+      "course": "software",
+      "class": "soft"
+    },
+    {
+      "id": "418a",
+      "name": "Sharon",
+      "email": "sharon@gmail.com",
+      "phone": "0707340087",
+      "course": "software",
+      "class": "soft"
+    },
+    {
+      "id": "99c7",
+      "name": "Sharon",
+      "email": "sharon@gmail.com",
+      "phone": "0707340087",
+      "course": "dev",
+      "class": "soft"
+    },
+    {
+      "id": "7049",
+      "name": "Sharon",
+      "email": "sharon@gmail.com",
+      "phone": "0707340087",
+      "course": "software",
+      "class": "ware"
+    },
+    {
+      "id": "ac22",
+      "name": "web_01",
+      "email": "zamzam@gmail.com",
+      "phone": "0789896543",
+      "course": "software",
+      "class": "soft"
+    },
+    {
+      "id": "4d55",
+      "name": "Sharon",
+      "email": "paul@gamil.com",
+      "phone": "0707340087",
+      "course": "software",
+      "class": "soft"
+    },
+    {
+      "id": "e482",
+      "name": "Sharon",
+      "email": "sharon@gmail.com",
+      "phone": "0707340087",
+      "course": "software",
+      "class": "soft"
+    }
+  ]
+}
