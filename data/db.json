@@ -119,6 +119,14 @@
       "phone": "07896543",
       "course": "software",
       "class": "development"
+    },
+    {
+      "id": "ec09",
+      "name": "Sharon",
+      "email": "sharon@gmail.com",
+      "phone": "0707340087",
+      "course": "software",
+      "class": "class"
     }
   ]
 }

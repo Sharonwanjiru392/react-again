@@ -4,7 +4,7 @@ import useFetch from "./useFetch"
 const StudentDetails = () =>{
     const {id} = useParams();   
     // fetch student data from API or local storage using the id
-    const {data: student} = useFetch('http://localhost:4000/students/ '+ id)
+    const { data: student } = useFetch('http://localhost:4000/students/ '+ id)
 
     
     return(
@@ -21,7 +21,7 @@ const StudentDetails = () =>{
                 )
             }
         </div>
-    )
+    );
 }
 
 export default StudentDetails;
