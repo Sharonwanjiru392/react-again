@@ -1,10 +1,10 @@
-import { useParams } from "react-router-dom/cjs/react-router-dom.min"
+import { useParams } from "react-router-dom"
 import useFetch from "./useFetch"
 
 const StudentDetails = () =>{
     const {id} = useParams();   
     // fetch student data from API or local storage using the id
-    const { data: student } = useFetch('http://localhost:4000/students/ '+ id)
+    const { data: student } = useFetch("http://localhost:4000/students/"+ id)
 
     
     return(
